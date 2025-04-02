@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+venv/
+.env
+
+# Flask
+instance/
+*.log
+
+# Node / React
+node_modules/
+build/
+dist/
+*.lock
+
+# VS Code / Mac
+.vscode/
+.DS_Store
