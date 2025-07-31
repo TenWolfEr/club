@@ -17,6 +17,6 @@ build/
 dist/
 *.lock
 
-# VS Code / Mac
+# VS Code / MacI
 .vscode/
 .DS_Store
